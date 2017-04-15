@@ -1,6 +1,9 @@
 ---
 title: my codepen repository
-tags: codepen, code, repository
+tags:
+  - codepen
+  - code
+  - repository
 ---
 
 # codepen
