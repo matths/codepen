@@ -1,8 +1,11 @@
 ---
 title: my codepen repository
-tags:
+tags: [codepen, code, repository]
+keywords:
   - codepen
-  - code
+    - code
+    - edit
+    - publish
   - repository
 ---
 
