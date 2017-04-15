@@ -1,6 +1,6 @@
 ---
-title: my codepen repository
-tags: [codepen, code, repository]
+title: "my codepen repository"
+tags: ["codepen", code, repository]
 keywords:
   - codepen
     - code
